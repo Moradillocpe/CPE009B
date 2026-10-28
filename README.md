@@ -1,11 +1,18 @@
-Check out the embedded Pinterest pin below:
 <div align="center">
-  <iframe 
-    src="https://assets.pinterest.com/ext/embed.html?id=620441286153872852" 
-    height="359" 
-    width="345" 
-    frameborder="0" 
-    scrolling="no">
-  </iframe>
+  <img src="assets/delivery-animation.gif" alt="Urban Logistics Banner" width="100%" />
+
+  # 🚚 Urban Delivery & Logistics Router
+
+  *An intelligent, real-time fleet route optimization and urban delivery dispatch system.*
+
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+  [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/)
+  [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](#)
+
 </div>
+
 ---
+
+## 📖 Overview
+
+... (rest of your README content)
